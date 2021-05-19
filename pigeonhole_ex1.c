@@ -1,5 +1,5 @@
 
-// Theorem: In any set A of n ≥ 2 integers, there is nonempty subset of A whose sumis a multiple of n.
+// Theorem: In any set A of n ≥ 2 integers, there is nonempty subset of A whose sum is a multiple of n.
 
 #include <stdio.h>
 #include <stdlib.h>
